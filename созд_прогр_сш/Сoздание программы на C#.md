@@ -6,25 +6,14 @@
 
 1. В total comander откроем c:\src и создадим папку new_app_c#
 ![создание нов программы C#](creature_new_app_cs.png)
-<br/>
-
 1. Открыть VS Code в папке new_app_c#  
 ![создание нов программы C#](open_with_code.png)
-<br/>
-
 1. Вызвать в консоли открывшегося окна команду dotnet new console, которая сгенерирует стартовый проект
 ![создание нов программы C#](dotnet_new_console.png)
-<br/>
 
-1. Редактируем появившийся в левом окне файл Program.cs :
+1. Редактируем появившийся в левом окне файл Program.cs:
 описываем в этом файле публичный класс Program
-и функцию:
-
-```
-public static Main(string[] args)
-```
-
+и функцию:`public static Main(string[] args)`
 ![создание нов программы C#](update_program_cs.png)
-<br/>
 
 1. Внутри функции Main пишем операторы программы.
